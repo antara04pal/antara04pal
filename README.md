@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antara Pal</h1>
-<h3 align="center">A passionate Full Stack Developer, Data Analyst, and AI Enthusiast from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
-
+<h3 align="center">A passionate Data Analyst, and AI Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antara04pal&label=Profile%20views&color=0e75b6&style=flat" alt="antara04pal" /> </p>
 
@@ -15,6 +12,8 @@
 - 💬 Ask me about **ReactJS, Next.js, Tailwind CSS, Bootstrap, JavaScript, Node.js, Express.js, MongoDB, MySQL, Firebase, Flask, REST APIs, JWT Authentication, Spring Boot, Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Power BI, Git, Docker(Basics), Postman**
 
 - 📫 How to reach me **antarapal7122@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/16EQE2_MTacdfSoIApNNjdiiEUgG5FZFB/view](https://drive.google.com/file/d/16EQE2_MTacdfSoIApNNjdiiEUgG5FZFB/view)
 
 - ⚡ Fun fact **I debug with snacks and dance breaks — it actually works!**
 
